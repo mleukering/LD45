@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/plasma.wav-5fb7530da2ac567d68bffc025b079429.sample"
+
+[deps]
+
+source_file="res://Audio/plasma.wav"
+dest_files=[ "res://.import/plasma.wav-5fb7530da2ac567d68bffc025b079429.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
